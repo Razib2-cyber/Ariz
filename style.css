@@ -1,0 +1,139 @@
+h1{
+    text-align: center;
+  
+}
+
+nav{
+    
+    background-color: rgb(193, 193, 193);
+    text-align: center;
+    margin: 0 150px 0 150px;
+    padding-bottom: 5px;
+}
+.justify{
+    display: flex;
+    justify-content: space-between;
+}
+.first-item, .last-item{
+    margin: 5px 150px;
+}
+
+.a a{
+    text-decoration: none;
+}
+.a{
+    color: rgb(0, 0, 0);
+    background-color:rgb(193, 193, 193) ;
+    padding: 10px;
+    border: 0px;
+    border-radius: 5px;
+}
+
+
+
+
+/* fruits items */
+
+.fruits img{
+    width: 400px;
+    height: 200px;
+    border-radius: 20px;
+    
+}
+.fruits-header{
+    text-align: center;
+}
+.fruits-description{
+    font-size: 20px;
+    text-align: justify;
+    background-color: rgb(193, 193, 193);
+    border-radius: 20px;
+    padding: 20px;
+}
+.fruits{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 50px 150px;
+    gap: 20px;
+}
+.fruits-left-img{
+    margin: 20px 10px 20px 150px;
+    border-radius: 10px;
+}
+.fruits-right-img{
+    margin: 20px 150px 20px 10px;
+}
+.fruits-left-img .fruits-right-img{
+    border-radius: 20px;
+}
+
+/* juice items */
+.juice img{
+    width: 400px;
+    height: 200px;
+    border-radius: 20px;
+    
+}
+.juice-header{
+    text-align: center;
+}
+.juice-description{
+    font-size: 20px;
+    text-align: justify;
+    background-color: rgb(193, 193, 193);
+    border-radius: 20px;
+    padding: 20px;
+}
+.juice{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 50px 150px;
+    gap: 20px;
+}
+.juice-left-img{
+    margin: 20px 10px 20px 150px;
+    border-radius: 10px;
+}
+.juice-right-img{
+    margin: 20px 150px 20px 10px;
+}
+.juice-left-img .juice-right-img{
+    border-radius: 20px;
+}
+
+/* organic items */
+.organic img{
+    width: 400px;
+    height: 200px;
+    border-radius: 20px;
+    
+}
+.organic-header{
+    text-align: center;
+}
+.organic-description{
+    font-size: 20px;
+    text-align: justify;
+    background-color: rgb(193, 193, 193);
+    border-radius: 20px;
+    padding: 20px;
+}
+.organic{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 50px 150px;
+    gap: 20px;
+}
+.organic-left-img{
+    margin: 20px 10px 20px 150px;
+    border-radius: 10px;
+}
+.organic-right-img{
+    margin: 20px 150px 20px 10px;
+}
+.organic-left-img .organic-right-img{
+    border-radius: 20px;
+}

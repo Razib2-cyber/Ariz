@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+  
+}
+
+nav{
+    
+    background-color: rgb(193, 193, 193);
+    text-align: center;
+    margin: 0 150px 0 150px;
+    padding-bottom: 5px;
+}
+.justify{
+    display: flex;
+    justify-content: space-between;
+}
+.first-item, .last-item{
+    margin: 5px 150px;
+}
+
+.a a{
+    text-decoration: none;
+}
+.a{
+    color: rgb(0, 0, 0);
+    background-color:rgb(193, 193, 193) ;
+    padding: 10px;
+    border: 0px;
+    border-radius: 5px;
+}
